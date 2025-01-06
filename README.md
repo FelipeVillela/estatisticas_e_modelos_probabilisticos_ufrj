@@ -7,7 +7,7 @@ Este projeto foi desenvovido para fins acadêmicos como trabalho final da discip
 
 ## Pré-requisitos
 
-- Certifique-se de ter o Python e o Jupyter instalados no seu ambiente.
+- Certifique-se de ter o [Python 3.12](https://www.python.org/) e o [Jupyter](https://jupyter.org/)  instalados no seu ambiente.
 - As bibliotecas utilizadas no projeto estão no arquivo `requirements.txt`. Instale-as executando o seguinte comando:
 
   ```bash
@@ -17,7 +17,7 @@ Este projeto foi desenvovido para fins acadêmicos como trabalho final da discip
 ## Instruções de Uso
 
 1. **Baixe os Dados:**
-   - Certifique-se de ter os arquivos `dataset_chromecast.csv` e `dataset_smart-tc.csv`
+   - Certifique-se de ter os arquivos `dataset_chromecast.csv` e `dataset_smart-tv.csv`
    - Coloque os arquivos de dados na pasta `datasets/` do projeto.
 
 2. **Abra o Notebook Jupyter:**
@@ -27,7 +27,7 @@ Este projeto foi desenvovido para fins acadêmicos como trabalho final da discip
    - Execute cada célula do notebook para exibir e salvar as referentes aos gráficos de análise de dados.
 
 4. **Visualização dos Resultados:**
-   - No diretório `results/` contém os gráficos gerados por este código. 
+   - O diretório `results/` será criado durante a execução e nele serão salvos os gráficos gerados no código. 
 
 
 ## Estrutura do Projeto
