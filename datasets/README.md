@@ -1,1 +1,1 @@
-Carregue os datasets `dataset_chromecast.csv` e `dataset_smart-tc.csv` neste diretório.
+Carregue os datasets `dataset_chromecast.csv` e `dataset_smart-tv.csv` neste diretório.
